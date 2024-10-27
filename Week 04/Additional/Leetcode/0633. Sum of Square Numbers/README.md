@@ -1,0 +1,1 @@
+https://leetcode.com/problems/sum-of-square-numbers/description/?envType=problem-list-v2&envId=binary-search
