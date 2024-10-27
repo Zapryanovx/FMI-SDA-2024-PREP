@@ -1,1 +1,0 @@
-https://leetcode.com/problems/guess-number-higher-or-lower/?envType=problem-list-v2&envId=binary-search

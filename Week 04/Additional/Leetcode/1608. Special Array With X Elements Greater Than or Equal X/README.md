@@ -1,1 +1,0 @@
-https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=problem-list-v2&envId=binary-search

@@ -1,1 +1,0 @@
-https://leetcode.com/problems/koko-eating-bananas/description/?envType=problem-list-v2&envId=binary-search
