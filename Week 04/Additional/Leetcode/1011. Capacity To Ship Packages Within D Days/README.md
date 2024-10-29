@@ -1,0 +1,1 @@
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/?envType=problem-list-v2&envId=binary-search
