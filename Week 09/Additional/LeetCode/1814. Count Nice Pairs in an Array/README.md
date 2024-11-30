@@ -1,0 +1,1 @@
+https://leetcode.com/problems/count-nice-pairs-in-an-array/description/?envType=problem-list-v2&envId=hash-table
