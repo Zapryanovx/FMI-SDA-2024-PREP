@@ -1,0 +1,1 @@
+https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/?envType=problem-list-v2&envId=binary-search
