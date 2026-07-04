@@ -1,1 +1,0 @@
-https://leetcode.com/problems/ransom-note/description/?envType=problem-list-v2&envId=hash-table

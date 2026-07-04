@@ -1,1 +1,0 @@
-https://www.hackerrank.com/contests/sda-homework-1/challenges

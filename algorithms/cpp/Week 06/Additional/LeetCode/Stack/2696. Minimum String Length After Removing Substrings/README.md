@@ -1,1 +1,0 @@
-https://leetcode.com/problems/minimum-string-length-after-removing-substrings/submissions/1447016010/?envType=problem-list-v2&envId=stack

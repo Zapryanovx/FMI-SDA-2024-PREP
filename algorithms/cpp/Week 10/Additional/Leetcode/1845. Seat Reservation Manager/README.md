@@ -1,1 +1,0 @@
-https://leetcode.com/problems/seat-reservation-manager/?envType=problem-list-v2&envId=heap-priority-queue

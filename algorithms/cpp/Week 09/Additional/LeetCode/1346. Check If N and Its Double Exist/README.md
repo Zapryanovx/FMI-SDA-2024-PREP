@@ -1,1 +1,0 @@
-https://leetcode.com/problems/check-if-n-and-its-double-exist/description/?envType=problem-list-v2&envId=hash-table

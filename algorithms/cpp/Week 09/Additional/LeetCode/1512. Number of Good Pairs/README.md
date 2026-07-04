@@ -1,1 +1,0 @@
-https://leetcode.com/problems/number-of-good-pairs/description/?envType=problem-list-v2&envId=hash-table
