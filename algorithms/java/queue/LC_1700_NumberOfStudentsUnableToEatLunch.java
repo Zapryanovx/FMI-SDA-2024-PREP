@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/
+package queue;// https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/
 
 import java.util.ArrayDeque;
 import java.util.Deque;
