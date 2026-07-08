@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/di-string-match/description/
+package strings;
 
 public class LC_0942_DIStringMatch {
     public int[] diStringMatch(String s) {

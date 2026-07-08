@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/defuse-the-bomb/description/
+package sliding.window;
 
 public class LC_1652_DefuseTheBomb {
     public int[] decrypt(int[] code, int k) {

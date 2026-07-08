@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/destination-city/description/
+package hashing;
 
 import java.util.HashSet;
 import java.util.List;

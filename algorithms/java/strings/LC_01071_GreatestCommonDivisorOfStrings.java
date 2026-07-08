@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+package strings;
 
 public class LC_01071_GreatestCommonDivisorOfStrings {
     public String gcdOfStrings(String str1, String str2) {

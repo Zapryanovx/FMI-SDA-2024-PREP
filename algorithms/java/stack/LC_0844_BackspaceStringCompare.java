@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/backspace-string-compare/description/
+package stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/third-maximum-number/description/
+package arrays;
 
 public class LC_0414_ThirdMaximumNumber {
     public int thirdMax(int[] nums) {

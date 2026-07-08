@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/matrix-diagonal-sum/description/
+package matrix;
 
 public class LC_1572_MatrixDiagonalSum {
     public int diagonalSum(int[][] mat) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
+package hashing;
 
 import java.util.HashMap;
 import java.util.Map;

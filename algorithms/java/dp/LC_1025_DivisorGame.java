@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/divisor-game/description/
+package dp;
 
 public class LC_1025_DivisorGame {
     public boolean divisorGame(int n) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/number-of-lines-to-write-string/description/
+package strings;
 
 public class LC_0806_NumberOfLinesToWriteString {
     public int[] numberOfLines(int[] widths, String s) {

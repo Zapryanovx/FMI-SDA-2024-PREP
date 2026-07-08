@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/
+package strings;
 
 public class LC_1758_MinimumChangesToMakeAlternatingBinaryString {
     public int minOperations(String s) {

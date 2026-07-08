@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/score-of-a-string/description/
+package strings;
 
 public class LC_3110_ScoreOfAString {
     public int scoreOfString(String s) {

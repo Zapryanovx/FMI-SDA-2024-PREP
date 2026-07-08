@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
+package strings;
 
 public class LC_1662_CheckIfTwoStringArraysAreEquivalent {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {

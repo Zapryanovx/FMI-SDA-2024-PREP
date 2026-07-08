@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/
+package matrix;
 
 public class LC_1582_SpecialPositionsInABinaryMatrix {
     public int numSpecial(int[][] mat) {

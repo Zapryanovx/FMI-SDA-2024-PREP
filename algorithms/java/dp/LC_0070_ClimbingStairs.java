@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/climbing-stairs/description/
+package dp;
 
 public class LC_0070_ClimbingStairs {
     public int climbStairs(int n) {

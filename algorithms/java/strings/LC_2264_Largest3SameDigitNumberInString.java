@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/
+package strings;
 
 public class LC_2264_Largest3SameDigitNumberInString {
     public String largestGoodInteger(String num) {

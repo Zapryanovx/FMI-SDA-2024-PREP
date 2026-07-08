@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate-ii/description/
+package sliding.window;
 
 import java.util.HashSet;
 import java.util.Set;

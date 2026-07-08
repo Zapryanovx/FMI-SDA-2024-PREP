@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/
+package hashing;
 
 import java.util.HashMap;
 import java.util.Map;

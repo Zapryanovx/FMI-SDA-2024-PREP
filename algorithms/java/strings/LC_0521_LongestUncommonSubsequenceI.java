@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
+package strings;
 
 public class LC_0521_LongestUncommonSubsequenceI {
     public int findLUSlength(String a, String b) {

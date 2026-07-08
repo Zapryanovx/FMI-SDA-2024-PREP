@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/number-of-segments-in-a-string/description/
+package strings;
 
 public class LC_0434_NumberOfSegmentsInAString {
     public int countSegments(String s) {

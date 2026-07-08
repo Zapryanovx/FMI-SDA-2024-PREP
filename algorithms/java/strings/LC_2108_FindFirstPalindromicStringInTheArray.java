@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
+package strings;
 
 public class LC_2108_FindFirstPalindromicStringInTheArray {
     public String firstPalindrome(String[] words) {

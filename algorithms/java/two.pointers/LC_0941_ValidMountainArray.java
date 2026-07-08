@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/valid-mountain-array/
+package two.pointers;
 
 public class LC_0941_ValidMountainArray {
     public boolean validMountainArray(int[] arr) {

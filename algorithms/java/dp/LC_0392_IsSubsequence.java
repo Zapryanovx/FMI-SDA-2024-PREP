@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/is-subsequence/description/
+package dp;
 
 class LC_0392_IsSubsequence {
     public boolean isSubsequence(String s, String t) {

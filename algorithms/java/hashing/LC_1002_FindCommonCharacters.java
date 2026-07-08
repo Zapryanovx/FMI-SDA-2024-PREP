@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-common-characters/description/
+package hashing;
 
 import java.util.ArrayList;
 import java.util.HashMap;

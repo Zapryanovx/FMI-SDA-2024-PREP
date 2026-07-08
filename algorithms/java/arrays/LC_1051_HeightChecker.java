@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/height-checker/description/
+package arrays;
 
 import java.util.Arrays;
 

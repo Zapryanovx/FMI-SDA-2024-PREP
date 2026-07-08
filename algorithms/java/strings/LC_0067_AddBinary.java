@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/add-binary/description/
+package strings;
 
 public class LC_0067_AddBinary {
     public String addBinary(String a, String b) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/happy-number/description/
+package hashing;
 
 import java.util.HashSet;
 import java.util.Set;

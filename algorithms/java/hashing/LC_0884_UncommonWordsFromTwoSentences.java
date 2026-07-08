@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
+package hashing;
 
 import java.util.ArrayList;
 import java.util.HashMap;

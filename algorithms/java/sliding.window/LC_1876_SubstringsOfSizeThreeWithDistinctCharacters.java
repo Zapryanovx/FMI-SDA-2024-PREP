@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/
+package sliding.window;
 
 public class LC_1876_SubstringsOfSizeThreeWithDistinctCharacters {
     public int countGoodSubstrings(String s) {

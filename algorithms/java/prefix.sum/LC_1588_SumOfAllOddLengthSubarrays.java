@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/
+package prefix.sum;
 
 public class LC_1588_SumOfAllOddLengthSubarrays {
     public int sumOddLengthSubarrays(int[] arr) {

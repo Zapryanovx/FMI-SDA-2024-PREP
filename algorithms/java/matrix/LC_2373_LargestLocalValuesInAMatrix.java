@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/largest-local-values-in-a-matrix/description/
+package matrix;
 
 public class LC_2373_LargestLocalValuesInAMatrix {
     public int[][] largestLocal(int[][] grid) {

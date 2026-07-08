@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-odd-binary-number/description/
+package strings;
 
 public class LC_2864_MaximumOddBinaryNumber {
     public String maximumOddBinaryNumber(String s) {

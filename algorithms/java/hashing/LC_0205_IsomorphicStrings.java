@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/isomorphic-strings/description/
+package hashing;
 
 import java.util.HashMap;
 import java.util.Map;

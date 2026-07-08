@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/repeated-substring-pattern/description/
+package strings;
 
 public class LC_0459_RepeatedSubstringPattern {
     public boolean repeatedSubstringPattern(String s) {

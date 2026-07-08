@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/
+package greedy;
 
 public class LC_1913_MaximumProductDifferenceBetweenTwoPairs {
     public int maxProductDifference(int[] nums) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/pascals-triangle/description/
+package dp;
 
 import java.util.ArrayList;
 import java.util.List;

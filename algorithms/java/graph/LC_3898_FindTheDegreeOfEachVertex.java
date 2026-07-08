@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-the-degree-of-each-vertex/
+package graph;
 
 class LC_3898_FindTheDegreeOfEachVertex {
     public int[] findDegrees(int[][] matrix) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+package hashing;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/consecutive-characters/description/
+package strings;
 
 public class LC_1446_ConsecutiveCharacters {
     public int maxPower(String s) {

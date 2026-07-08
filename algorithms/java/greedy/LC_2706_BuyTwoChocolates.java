@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/buy-two-chocolates/description/
+package greedy;
 
 public class LC_2706_BuyTwoChocolates {
     public int buyChoco(int[] prices, int money) {

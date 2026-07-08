@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/missing-number/description/
+package hashing;
 
 import java.util.HashSet;
 

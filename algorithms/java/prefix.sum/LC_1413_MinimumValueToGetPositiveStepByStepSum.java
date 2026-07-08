@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/
+package prefix.sum;
 
 public class LC_1413_MinimumValueToGetPositiveStepByStepSum {
     public int minStartValue(int[] nums) {

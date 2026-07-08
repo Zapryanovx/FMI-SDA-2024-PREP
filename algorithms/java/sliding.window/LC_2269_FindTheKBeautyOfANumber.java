@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/
+package sliding.window;
 
 public class LC_2269_FindTheKBeautyOfANumber {
     public int divisorSubstrings(int num, int k) {

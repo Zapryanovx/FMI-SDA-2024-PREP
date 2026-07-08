@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/merge-strings-alternately/description/
+package strings;
 
 public class LC_1768_MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/toeplitz-matrix/description/
+package matrix;
 
 public class LC_0766_ToeplitzMatrix {
     public boolean isToeplitzMatrix(int[][] matrix) {

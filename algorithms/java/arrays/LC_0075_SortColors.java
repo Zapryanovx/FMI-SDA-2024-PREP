@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/sort-colors/description/
+package arrays;
 
 public class LC_0075_SortColors {
     public void sortColors(int[] nums) {

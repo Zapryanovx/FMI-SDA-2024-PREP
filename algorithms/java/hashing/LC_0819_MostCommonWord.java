@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/most-common-word/description/
+package hashing;
 
 import java.util.Arrays;
 import java.util.HashMap;

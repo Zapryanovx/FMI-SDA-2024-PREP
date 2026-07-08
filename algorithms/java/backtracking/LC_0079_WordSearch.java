@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/word-search/description/
+package backtracking;
 
 public class LC_0079_WordSearch {
     public boolean exist(char[][] board, String word) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/transpose-matrix/description/
+package matrix;
 
 public class LC_0867_TransposeMatrix {
     public int[][] transpose(int[][] matrix) {

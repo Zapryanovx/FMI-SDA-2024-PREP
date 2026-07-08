@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/license-key-formatting/description/
+package strings;
 
 public class LC_0482_LicenseKeyFormatting {
     public String licenseKeyFormatting(String s, int k) {

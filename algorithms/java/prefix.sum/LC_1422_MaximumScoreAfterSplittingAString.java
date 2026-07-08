@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
+package prefix.sum;
 
 public class LC_1422_MaximumScoreAfterSplittingAString {
     public int maxScore(String s) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/min-cost-climbing-stairs/description/
+package dp;
 
 public class LC_0746_MinCostClimbingStairs {
     public int minCostClimbingStairs(int[] cost) {

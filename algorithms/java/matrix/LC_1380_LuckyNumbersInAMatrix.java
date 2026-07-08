@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
+package matrix;
 
 import java.util.ArrayList;
 import java.util.HashSet;

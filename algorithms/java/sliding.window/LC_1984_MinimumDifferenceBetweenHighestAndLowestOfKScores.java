@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/
+package sliding.window;
 
 import java.util.Arrays;
 

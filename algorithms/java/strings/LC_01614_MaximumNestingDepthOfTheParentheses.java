@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/
+package strings;
 
 public class LC_01614_MaximumNestingDepthOfTheParentheses {
     public int maxDepth(String s) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/longest-common-prefix/description/
+package strings;
 
 public class LC_0014_LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {

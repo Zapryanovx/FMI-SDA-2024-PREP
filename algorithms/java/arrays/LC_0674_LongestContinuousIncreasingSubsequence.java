@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+package arrays;
 
 class LC_0674_LongestContinuousIncreasingSubsequence {
     public int findLengthOfLCIS(int[] nums) {

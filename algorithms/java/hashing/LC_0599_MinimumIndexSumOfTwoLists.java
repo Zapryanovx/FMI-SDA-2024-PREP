@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
+package hashing;
 
 import java.util.ArrayList;
 import java.util.HashMap;

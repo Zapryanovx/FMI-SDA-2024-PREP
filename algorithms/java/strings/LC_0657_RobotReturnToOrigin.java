@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/robot-return-to-origin/description/
+package strings;
 
 public class LC_0657_RobotReturnToOrigin {
     public boolean judgeCircle(String moves) {

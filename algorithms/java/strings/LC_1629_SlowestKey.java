@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/slowest-key/description/
+package strings;
 
 public class LC_1629_SlowestKey {
     public char slowestKey(int[] releaseTimes, String keysPressed) {

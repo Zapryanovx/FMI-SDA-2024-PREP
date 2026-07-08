@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/number-of-senior-citizens/description/
+package strings;
 
 public class LC_2678_NumberOfSeniorCitizens {
     public int countSeniors(String[] details) {

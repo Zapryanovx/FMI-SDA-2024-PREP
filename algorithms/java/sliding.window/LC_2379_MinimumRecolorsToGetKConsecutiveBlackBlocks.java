@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/
+package sliding.window;
 
 public class LC_2379_MinimumRecolorsToGetKConsecutiveBlackBlocks {
     public int minimumRecolors(String blocks, int k) {

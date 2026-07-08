@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/counting-bits/description/
+package dp;
 
 public class LC_0338_CountingBits {
     public int[] countBits(int n) {

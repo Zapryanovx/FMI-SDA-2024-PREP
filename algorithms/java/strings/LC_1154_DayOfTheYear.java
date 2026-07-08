@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/day-of-the-year/description/
+package strings;
 
 public class LC_1154_DayOfTheYear {
     public int dayOfYear(String date) {

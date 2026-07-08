@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/next-greater-element-i/description/
+package stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

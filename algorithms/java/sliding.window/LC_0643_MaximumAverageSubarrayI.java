@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/maximum-average-subarray-i/description/
+package sliding.window;
 
 public class LC_0643_MaximumAverageSubarrayI {
     public double findMaxAverage(int[] nums, int k) {

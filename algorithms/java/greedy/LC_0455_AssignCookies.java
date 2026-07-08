@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/assign-cookies/description/
+package greedy;
 
 import java.util.Arrays;
 

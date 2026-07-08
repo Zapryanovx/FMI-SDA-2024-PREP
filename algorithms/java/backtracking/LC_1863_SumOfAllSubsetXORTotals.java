@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
+package backtracking;
 
 public class LC_1863_SumOfAllSubsetXORTotals {
     public int subsetXORSum(int[] nums) {

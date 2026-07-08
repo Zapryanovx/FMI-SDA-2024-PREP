@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/build-array-from-permutation/description/
+package arrays;
 
 class LC_1920_BuildArrayFromPermutation {
     public int[] buildArray(int[] nums) {

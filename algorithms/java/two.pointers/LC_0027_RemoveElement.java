@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/remove-element/
+package two.pointers;
 
 public class LC_0027_RemoveElement {
     public int removeElement(int[] nums, int val) {

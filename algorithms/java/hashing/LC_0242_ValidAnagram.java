@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/valid-anagram/description/
+package hashing;
 
 import java.util.HashMap;
 import java.util.Map;

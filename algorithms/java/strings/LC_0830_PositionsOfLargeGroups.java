@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/positions-of-large-groups/description/
+package strings;
 
 import java.util.ArrayList;
 import java.util.Arrays;

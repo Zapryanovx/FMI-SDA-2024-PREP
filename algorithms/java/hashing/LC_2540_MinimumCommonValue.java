@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/minimum-common-value/description/
+package hashing;
 
 import java.util.Arrays;
 import java.util.Set;

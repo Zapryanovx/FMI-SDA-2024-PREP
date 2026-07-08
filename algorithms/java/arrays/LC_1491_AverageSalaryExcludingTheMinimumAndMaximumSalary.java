@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/
+package arrays;
 
 public class LC_1491_AverageSalaryExcludingTheMinimumAndMaximumSalary {
     public double average(int[] salary) {

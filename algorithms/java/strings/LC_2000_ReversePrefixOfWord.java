@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/reverse-prefix-of-word/description/
+package strings;
 
 public class LC_2000_ReversePrefixOfWord {
     public String reversePrefix(String word, char ch) {

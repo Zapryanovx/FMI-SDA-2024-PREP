@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+package strings;
 
 public class LC_0028_FindTheIndexOfTheFirstOccurrenceInAString {
     public int strStr(String haystack, String needle) {

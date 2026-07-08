@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate/description/
+package hashing;
 
 import java.util.HashSet;
 import java.util.Set;

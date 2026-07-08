@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/rotate-string/description/
+package strings;
 
 public class LC_0796_RotateString {
     public boolean rotateString(String s, String goal) {

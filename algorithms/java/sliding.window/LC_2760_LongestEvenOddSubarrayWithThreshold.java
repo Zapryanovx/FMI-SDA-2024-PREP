@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/
+package sliding.window;
 
 public class LC_2760_LongestEvenOddSubarrayWithThreshold {
     public int longestAlternatingSubarray(int[] nums, int threshold) {

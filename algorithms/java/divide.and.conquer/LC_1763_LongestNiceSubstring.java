@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/longest-nice-substring/description/
+package divide.and.conquer;
 
 public class LC_1763_LongestNiceSubstring {
     public String longestNiceSubstring(String s) {

@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/verifying-an-alien-dictionary/description/
+package hashing;
 
 import java.util.HashMap;
 import java.util.Map;
