@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/island-perimeter/description/
 
+package dfs;
+
 public class LC_0463_IslandPerimeter {
     public int islandPerimeter(int[][] grid) {
         for (int i = 0; i < grid.length; i++) {

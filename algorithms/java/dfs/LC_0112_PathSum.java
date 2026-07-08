@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/path-sum/description/
 
+package dfs;
+
 public class LC_0112_PathSum {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         return checkIfHasPathSum(root, targetSum, 0);
