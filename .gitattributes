@@ -1,2 +1,2 @@
-*.sql linguist-detectable=true linguist-language=SQL
-*.sh linguist-detectable=true linguist-language=Shell
+*.sql linguist-detectable=true linguist-language=SQL linguist-vendored=false
+*.sh linguist-detectable=true linguist-language=Shell linguist-vendored=false
