@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/path-sum/description/
 
-package dfs;
+package binary.trees;
 
 public class LC_0112_PathSum {
     public boolean hasPathSum(TreeNode root, int targetSum) {

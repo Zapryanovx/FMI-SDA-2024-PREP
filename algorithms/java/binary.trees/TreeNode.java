@@ -1,4 +1,4 @@
-package bfs;
+package binary.trees;
 
 public class TreeNode {
     int val;

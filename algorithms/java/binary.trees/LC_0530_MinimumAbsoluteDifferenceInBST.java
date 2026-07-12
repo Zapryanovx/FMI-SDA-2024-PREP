@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 
-package dfs;
+package binary.trees;
 
 public class LC_0530_MinimumAbsoluteDifferenceInBST {
     private int prev = -1;

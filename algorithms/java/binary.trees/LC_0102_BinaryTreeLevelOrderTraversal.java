@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 
-package bfs;
+package binary.trees;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

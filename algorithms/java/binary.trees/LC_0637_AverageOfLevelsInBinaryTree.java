@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 
-package bfs;
+package binary.trees;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
